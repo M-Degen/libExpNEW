@@ -8,10 +8,10 @@
 #ifndef __AUTOCONFIG__
 	#define __AUTOCONFIG__
 
-	#define COMPILER_SWITCH_COM_MINGW        // Used Compiler
+	#define COMPILER_SWITCH_COM_TASKING      // Used Compiler
 	#define COMPILER_SWITCH_ENV_CEN          // Used OS
-	#define COMPILER_SWITCH_DATA_INTEL       // Used Data Formats   
-	#define COMPILER_SWITCH_TAR_PC           // Used Target
+	#define COMPILER_SWITCH_DATA_INTEL       // Used Data Formats
+	#define COMPILER_SWITCH_TAR_HW           // Used Target
 	#define COMPILER_SWITCH_OEM_TTC          // Used OEM
 	#define COMPILER_SWITCH_FAM_TTC3X        // Used Ecu Family
 	#define COMPILER_SWITCH_FAM_TTC3X_SAFETY // Used Ecu Family Safety

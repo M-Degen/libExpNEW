@@ -25,7 +25,8 @@ SUB_CC_INCLUDES = \
 
 SUB_LIB_EXT = \
 $(ROOT_PATH)/include/_lib/TTC32S/pc/core/CEN_TTC32S_PC_CoreBasStd.a \
-$(ROOT_PATH)/include/_lib/TTC32S/pc/protocol/CEN_TTC32S_PC_PtcMst.a
+$(ROOT_PATH)/include/_lib/TTC32S/pc/protocol/CEN_TTC32S_PC_PtcMst.a \
+$(ROOT_PATH)/src/app_libs/CEN_TTC32S_PC_AppFunc.a
 
 
 SUB_OBJECTS = \
