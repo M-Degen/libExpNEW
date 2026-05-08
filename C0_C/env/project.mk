@@ -82,8 +82,8 @@ PC_PRE_MAKE     =
 #PC_POST_MAKE    =
 
 # create a lib for ECU (*.obj -> *.lib)
-HW_POST_MAKE = "$(MINGW_PATH)\bin\ar.exe" rcs "src\app_libs\CEN_$(TARGET_BIG)_HW_AppFunc.a" "_debug\cen_hw\$(TARGET_BIG)\src\app_libs\AppFunc.obj"
+#HW_POST_MAKE = "$(MINGW_PATH)\bin\ar.exe" rcs "src\app_libs\CEN_$(TARGET_BIG)_HW_AppFunc.a" "_debug\cen_hw\$(TARGET_BIG)\src\app_libs\AppFunc.obj"
 # Post make command for the pc build
 # build a library for pc, libs with name "CEN_$(TARGET_BIG)_PC_*.a" will be automatically
 #used after clean for pc build
-PC_POST_MAKE = "$(MINGW_PATH)\bin\ar.exe" -r "src\app_libs\CEN_$(TARGET_BIG)_PC_AppFunc.a" "_debug\cen_pc\$(TARGET_BIG)\src\app_libs\AppFunc.o"
+#PC_POST_MAKE = "$(MINGW_PATH)\bin\ar.exe" -r "src\app_libs\CEN_$(TARGET_BIG)_PC_AppFunc.a" "_debug\cen_pc\$(TARGET_BIG)\src\app_libs\AppFunc.o"
