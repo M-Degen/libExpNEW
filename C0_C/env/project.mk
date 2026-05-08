@@ -72,12 +72,12 @@ TTC5XX_HW_GEN   =2
 CPP_TSK_WARN    =NO
 
 # Pre make command for the hw build 
-HW_PRE_MAKE     = 
+HW_PRE_MAKE     =  cmd /C app_tools\hw_pre_make.bat
 # Post make command for the hw build
-#HW_POST_MAKE    =
+#HW_POST_MAKE    =  
 
 # Pre make command for the pc build 
-PC_PRE_MAKE     = 
+PC_PRE_MAKE     = cmd /C app_tools\pc_pre_make.bat
 # Post make command for the pc build
 #PC_POST_MAKE    =
 
