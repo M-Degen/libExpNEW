@@ -1,0 +1,3 @@
+diag 0x3001 800.
+SYStem.CPU XC2287M-104F
+SYStem.Option DUALPORT ON

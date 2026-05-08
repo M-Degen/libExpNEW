@@ -1,0 +1,761 @@
+<Element>
+  <SerializedElement Type="HD.BC.Datatypes.Settings.BuildSettings.SettingsBuildMatch31, HD.BC.Datatypes, Version=1.11.3.0, Culture=neutral, PublicKeyToken=null">
+    <SettingsBuildMatch31 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Certification>
+        <CertificationCode>d1c59319e45d6d3efceb773f4d19ed39</CertificationCode>
+        <User>buildserver-msc</User>
+        <Timestamp>03.12.2024 13:16:57</Timestamp>
+        <MachineName>DE-SZR-BUILDEB</MachineName>
+        <OperatingSystem>Microsoft Windows NT 6.2.9200.0 (64bit: True)</OperatingSystem>
+        <ProcessorCount>4</ProcessorCount>
+      </Certification>
+      <User>huesget</User>
+      <Comment>R2024a RC6</Comment>
+      <VersionBC>1.12.4.2</VersionBC>
+      <FamilyCompiler>
+        <StringItem>
+          <Key>TTC30SH</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC30SH</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC30H</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC30H</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC32</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC32</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC32S</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC32S</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC50</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC50</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC60</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC60</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC90</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC90</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC94</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC94</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC71</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC71</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC77</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC77</Key>
+          <Parameter>C:\Program Files (x86)\TASKING\C166-VX v3.0r3</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC510</Key>
+          <Parameter>C:\ti\ccsv5\tools\compiler\arm_5.1.6</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC510</Key>
+          <Parameter>C:\ti\ccsv5\tools\compiler\arm_5.1.6</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC540</Key>
+          <Parameter>C:\ti\ccsv5\tools\compiler\arm_5.1.6</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC540</Key>
+          <Parameter>C:\ti\ccsv5\tools\compiler\arm_5.1.6</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC580</Key>
+          <Parameter>C:\ti\ccsv5\tools\compiler\arm_5.1.6</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC580</Key>
+          <Parameter>C:\ti\ccsv5\tools\compiler\arm_5.1.6</Parameter>
+        </StringItem>
+        <StringItem>
+          <Key>TTC508</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC508</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC590</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC590</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2310</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2310</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2380</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2380</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2385</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2385</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2390</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2390</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2038</Key>
+          <Parameter />
+        </StringItem>
+        <StringItem>
+          <Key>TTC2038</Key>
+          <Parameter />
+        </StringItem>
+      </FamilyCompiler>
+      <IsDraft>true</IsDraft>
+      <Families>
+        <SettingsFamily>
+          <Name>TTC30SH</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc3xPc\main_cen_ttc30_pc.mk ECU_TYPE=TTC30SH</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xPc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30SH</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30SH</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC30SH PC" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30SH -j8" buildLibAllParameter="both 3x 30sh" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC30SH PC" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30SH -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc30sh" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC30SH</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc3xHw\main_cen_ttc30_hw.mk ECU_TYPE=TTC30SH</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xHw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30SH</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30SH</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC30SH HW" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30SH -j8" buildLibAllParameter="both 3x 30sh" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC30SH HW" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30SH -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc30sh " compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC30H</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc3xPc\main_cen_ttc30_pc.mk ECU_TYPE=TTC30H</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xPc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30H</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30H</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC30H PC" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30H -j8" buildLibAllParameter="both 3x 30h" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC30H PC" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC30H -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc30h" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC30H</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc3xHw\main_cen_ttc30_hw.mk ECU_TYPE=TTC30H</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xHw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30H</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30H</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC30H HW" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30H -j8" buildLibAllParameter="both 3x 30h" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC30H HW" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC30H -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc30h" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC32</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc3xPc\main_cen_ttc30_pc.mk ECU_TYPE=TTC30SH</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xPc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.1.5" maxVersion="" comment="TTC32 is the non-safety variant since 7.3.1.5, TTC32S is now the safety variant." makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32" buildLibAllParameter="both 3x 32" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC32 is the non-safety variant since 7.3.1.5, TTC32S is now the safety variant." makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32 -j8" buildLibAllParameter="both 3x 32" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC32 is the non-safety variant since 7.3.1.5, TTC32S is now the safety variant." makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32 -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc32" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC32</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc3xHw\main_cen_ttc30_hw.mk ECU_TYPE=TTC30SH</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xHw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.1.5" maxVersion="" comment="TTC32 is the non-safety variant since 7.3.1.5, TTC32S is the safety variant." makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32" buildLibAllParameter="both 3x 32" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC32 is the non-safety variant since 7.3.1.5, TTC32S is the safety variant." makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32 -j8" buildLibAllParameter="both 3x 32" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC32 is the non-safety variant since 7.3.1.5, TTC32S is the safety variant." makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32 -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc32" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC32S</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc3xPc\main_cen_ttc30_pc.mk ECU_TYPE=TTC30SH</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xPc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.1.5" maxVersion="" comment="TTC32S is the safety variant since 7.3.1.5" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S" buildLibAllParameter="both 3x 32s" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC32S is the safety variant since 7.3.1.5" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S -j8" buildLibAllParameter="both 3x 32s" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC32S is the safety variant since 7.3.1.5" makefilePath="env\cenTtc3x\Pc\main_cen_ttc3x_pc.mk ECU_TYPE=TTC32S -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc32s" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC32S</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc3xHw\main_cen_ttc30_hw.mk ECU_TYPE=TTC30SH</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc3xHw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.1.5" maxVersion="" comment="TTC32S is the safety variant since 7.3.1.5" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S" buildLibAllParameter="both 3x 32s" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC32S is the safety variant since 7.3.1.5" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S -j8" buildLibAllParameter="both 3x 32s" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC32S is the safety variant since 7.3.1.5" makefilePath="env\cenTtc3x\Hw\main_cen_ttc3x_hw.mk ECU_TYPE=TTC32S -j8" buildLibAllParameter="both ttc  Ttc3x  Ttc32s" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC50</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC50</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC50</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC50</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC50PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC50 -j8" buildLibAllParameter="both 5x 50" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC50PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC50 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc50" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC50</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC50</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC50</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC50</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC50HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC50 -j8" buildLibAllParameter="both 5x 50" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC50HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC50 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc50" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC60</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC60</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC60</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC60</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC60PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC60 -j8" buildLibAllParameter="both 5x 60" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC60PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC60 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc60" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC60</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC60</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC60</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC60</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC60HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC60 -j8" buildLibAllParameter="both 5x 60" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC60HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC60 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc60" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC90</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC90</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC90</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC90</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC90PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC90 -j8" buildLibAllParameter="both 5x 90" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC90PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC90 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc90" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC90</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC90</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC90</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC90</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC90HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC90 -j8" buildLibAllParameter="both 5x 90" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC90HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC90 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc90" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC94</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC94</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xPc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC94</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC94</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC94PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC94 -j8" buildLibAllParameter="both 5x 94" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC94PC" makefilePath="env\cenTtc5x\Pc\main_cen_ttc5x_pc.mk ECU_TYPE=TTC94 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc94" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC94</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC94</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xHw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC94</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC94</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC94HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC94 -j8" buildLibAllParameter="both 5x 94" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC94HW" makefilePath="env\cenTtc5x\Hw\main_cen_ttc5x_hw.mk ECU_TYPE=TTC94 -j8" buildLibAllParameter="both ttc  Ttc5x  Ttc94" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC71</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc7xPc\main_cen_ttc77_pc.mk ECU_TYPE=TTC77</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc7xPc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC71</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc7x\Pc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC71</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC71PC" makefilePath="env\cenTtc7x\Pc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC71 -j8" buildLibAllParameter="both 7x 71" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC71PC" makefilePath="env\cenTtc7x\Pc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC71 -j8" buildLibAllParameter="both ttc  Ttc7x  Ttc71" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC71</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc7xHw\main_cen_ttc77_hw.mk ECU_TYPE=TTC77</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc7xHw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC71</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc7x\Hw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC71</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC71HW" makefilePath="env\cenTtc7x\Hw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC71 -j8" buildLibAllParameter="both 7x 71" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC71HW" makefilePath="env\cenTtc7x\Hw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC71 -j8" buildLibAllParameter="both ttc  Ttc7x  Ttc71" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC77</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc7xPc\main_cen_ttc77_pc.mk ECU_TYPE=TTC77</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc7xPc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC77</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc7x\Pc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC77</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC77PC" makefilePath="env\cenTtc7x\Pc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC77 -j8" buildLibAllParameter="both 7x 77" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC77PC" makefilePath="env\cenTtc7x\Pc\main_cen_ttc7x_pc.mk ECU_TYPE=TTC77 -j8" buildLibAllParameter="both ttc  Ttc7x  Ttc77" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC77</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc7xHw\main_cen_ttc77_hw.mk ECU_TYPE=TTC77</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc7xHw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC77</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc7x\Hw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC77</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC77HW" makefilePath="env\cenTtc7x\Hw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC77 -j8" buildLibAllParameter="both 7x 77" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC77HW" makefilePath="env\cenTtc7x\Hw\main_cen_ttc7x_hw.mk ECU_TYPE=TTC77 -j8" buildLibAllParameter="both ttc  Ttc7x  Ttc77" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC510</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xxPc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC510</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xxPc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC510</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC510</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC510PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC510 -j8" buildLibAllParameter="both 5xx 510" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC510PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC510 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc510" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC510</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xxHw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC510</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xxHw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC510</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC510</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC510HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC510 -j8" buildLibAllParameter="both 5xx 510" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC510HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC510 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc510" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC540</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xxPc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC540</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xxPc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC540</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC540</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC540PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC540 -j8" buildLibAllParameter="both 5xx 540" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC540PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC540 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc540" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC540</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xxHw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC540</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xxHw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC540</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC540</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC540HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC540 -j8" buildLibAllParameter="both 5xx 540" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC540HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC540 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc540" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC580</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile>env\cenTtc5xxPc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC580</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xxPc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC580</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC580</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC580PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC580 -j8" buildLibAllParameter="both 5xx 580" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC580PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC580 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc580" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC580</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile>env\cenTtc5xxHw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC580</PathToMakefile>
+          <PathToMakefileAfter07_00_32_00>env\cenTtc5xxHw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC580</PathToMakefileAfter07_00_32_00>
+          <PathToMakefileAfterEqual07_02_04_00>env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC580</PathToMakefileAfterEqual07_02_04_00>
+          <VersionedBuildParameter minVersion="7.3.4.0" maxVersion="" comment="TTC580HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC580 -j8" buildLibAllParameter="both 5xx 580" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.3.4.2" maxVersion="" comment="TTC580HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC580 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc580" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC508</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC508PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC508 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc508" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC508</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC508HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC508 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc508" compiler="" archiver="C:\ti\ccsv5\tools\compiler\arm_5.1.6\\bin\armar.exe -a " autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC590</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC590PC" makefilePath="env\cenTtc5xx\Pc\main_cen_ttc5xx_pc.mk ECU_TYPE=TTC590 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc590" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC590</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC590HW" makefilePath="env\cenTtc5xx\Hw\main_cen_ttc5xx_hw.mk ECU_TYPE=TTC590 -j8" buildLibAllParameter="both ttc  Ttc5xx Ttc590" compiler="" archiver="&quot;C:\ti\ccsv5\tools\compiler\arm_5.1.6\bin\armar.exe&quot; -a " autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2310</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC2310PC" makefilePath="env\cenTtc2xxx\Pc\main_cen_ttc2xxx_pc.mk ECU_TYPE=TTC2310 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2310" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2310</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC2310HW" makefilePath="env\cenTtc2xxx\Hw\main_cen_ttc2xxx_hw.mk ECU_TYPE=TTC2310 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2310" compiler="" archiver="&quot;C:\HIGHTEC\toolchains\tricore\v4.9.4.1\bin\tricore-ar&quot; -r" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2380</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.5.0.0" maxVersion="" comment="TTC2380PC" makefilePath="env\cenTtc2xxx\Pc\main_cen_ttc2xxx_pc.mk ECU_TYPE=TTC2380 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2380" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2380</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.5.0.0" maxVersion="" comment="TTC2380HW" makefilePath="env\cenTtc2xxx\Hw\main_cen_ttc2xxx_hw.mk ECU_TYPE=TTC2380 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2380" compiler="" archiver="&quot;C:\HIGHTEC\toolchains\tricore\v4.9.4.1\bin\tricore-ar&quot; -r" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2385</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.5.0.0" maxVersion="" comment="TTC2385PC" makefilePath="env\cenTtc2xxx\Pc\main_cen_ttc2xxx_pc.mk ECU_TYPE=TTC2385 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2385" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2385</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.5.0.0" maxVersion="" comment="TTC2385HW" makefilePath="env\cenTtc2xxx\Hw\main_cen_ttc2xxx_hw.mk ECU_TYPE=TTC2385 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2385" compiler="" archiver="&quot;C:\HIGHTEC\toolchains\tricore\v4.9.4.1\bin\tricore-ar&quot; -r" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2390</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC2390PC" makefilePath="env\cenTtc2xxx\Pc\main_cen_ttc2xxx_pc.mk ECU_TYPE=TTC2390 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2390" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2390</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.3.5.0" maxVersion="" comment="TTC2390HW" makefilePath="env\cenTtc2xxx\Hw\main_cen_ttc2xxx_hw.mk ECU_TYPE=TTC2390 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2390" compiler="" archiver="&quot;C:\HIGHTEC\toolchains\tricore\v4.9.4.1\bin\tricore-ar&quot; -r" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2038</Name>
+          <LibraryType>PC</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.4.1.70" maxVersion="" comment="TTC2038PC" makefilePath="env\cenTtc2038\Pc\main_cen_ttc2038_pc.mk ECU_TYPE=TTC2038 -j8" buildLibAllParameter="both ttc  Ttc2038 Ttc2038" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.5.0.0" maxVersion="" comment="TTC2038PC" makefilePath="env\cenTtc2xxx\Pc\main_cen_ttc2xxx_pc.mk ECU_TYPE=TTC2038 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2038" compiler="" archiver="" autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2038</Name>
+          <LibraryType>HW</LibraryType>
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+          <VersionedBuildParameter minVersion="7.4.1.70" maxVersion="" comment="TTC2038HW" makefilePath="env\cenTtc2038\Hw\main_cen_ttc2038_hw.mk ECU_TYPE=TTC2038 -j8" buildLibAllParameter="both ttc  Ttc2038 Ttc2038" compiler="" archiver="&quot;C:\HIGHTEC\toolchains\tricore\v4.9.4.1\bin\tricore-ar&quot; -r " autocode="" libExtension="" objExtension="" familyFolder="" />
+          <VersionedBuildParameter minVersion="7.5.0.0" maxVersion="" comment="TTC2038HW" makefilePath="env\cenTtc2xxx\Hw\main_cen_ttc2xxx_hw.mk ECU_TYPE=TTC2038 -j8" buildLibAllParameter="both ttc  Ttc2xxx Ttc2038" compiler="" archiver="&quot;C:\HIGHTEC\toolchains\tricore\v4.9.4.1\bin\tricore-ar&quot; -r " autocode="" libExtension="" objExtension="" familyFolder="" />
+        </SettingsFamily>
+      </Families>
+      <CodeCertifiedFamilies>
+        <SettingsFamily>
+          <Name>TTC30SH</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC30H</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC32</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC32S</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC50</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC60</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC90</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC94</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC71</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC77</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC510</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC540</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC580</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC508</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC590</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2310</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2380</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2385</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2390</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+        <SettingsFamily>
+          <Name>TTC2038</Name>
+          <LibraryType />
+          <PathToMakefile />
+          <PathToMakefileAfter07_00_32_00 />
+          <PathToMakefileAfterEqual07_02_04_00 />
+        </SettingsFamily>
+      </CodeCertifiedFamilies>
+      <TestCertifiedFamilies />
+      <AutoBranchMatchReleaseFromTrunk>false</AutoBranchMatchReleaseFromTrunk>
+      <CertifyCode>true</CertifyCode>
+      <BuildOnlyCore>false</BuildOnlyCore>
+      <No32_HCP_CEN>false</No32_HCP_CEN>
+      <CertifyTest>false</CertifyTest>
+      <CertifyTestRelease>false</CertifyTestRelease>
+      <PostRunCoreTests>false</PostRunCoreTests>
+      <PostRunServiceCommunicationTests>false</PostRunServiceCommunicationTests>
+      <PostRunBlockPackageBlockTests />
+      <AutoBranchMinimalProjectFromTrunk>false</AutoBranchMinimalProjectFromTrunk>
+      <TestsCreateProjectIfFailed>false</TestsCreateProjectIfFailed>
+      <Version>07-08-00-00</Version>
+      <Timestamp>03.12.2024 13:16:57</Timestamp>
+      <RealatedVersions>
+        <VersionEcuVerHcpBiosInfo>7.8.0.0</VersionEcuVerHcpBiosInfo>
+        <VersionBloItfVersionInfo>1.15.0.0</VersionBloItfVersionInfo>
+        <VersionSigItfVersionInfo>1.13.0.0</VersionSigItfVersionInfo>
+      </RealatedVersions>
+      <OutputCopiesCoreFolders />
+      <OutputCopiesFolders />
+      <OutputMinCopiesFolders />
+      <SourceBranch31MATCH>
+        <SvnInfo>
+          <SvnStatus>None</SvnStatus>
+          <CertifiedSVN>false</CertifiedSVN>
+          <CertifySVN>false</CertifySVN>
+          <TagThisSVN>false</TagThisSVN>
+          <UseHeadRevision>true</UseHeadRevision>
+          <Url>https://svn/svn/mscsvn/EmbCore_MATCH/branch/HY_XX_07-08-00-00</Url>
+          <Uuid>73aae0b8-5264-e543-9f52-7ff63b902676</Uuid>
+          <Revision>5462</Revision>
+          <LastChangedRevision>5447</LastChangedRevision>
+          <NodeType>Verzeichnis</NodeType>
+          <LastAuthor>huesget</LastAuthor>
+          <LastChangeDate />
+        </SvnInfo>
+        <TestFolderName />
+      </SourceBranch31MATCH>
+      <CheckMatch31svn>false</CheckMatch31svn>
+      <Match31SVNmd5 />
+      <SourceBranchMatchRelease>
+        <SvnInfo>
+          <SvnStatus>None</SvnStatus>
+          <CertifiedSVN>false</CertifiedSVN>
+          <CertifySVN>false</CertifySVN>
+          <TagThisSVN>false</TagThisSVN>
+          <UseHeadRevision>true</UseHeadRevision>
+          <Url />
+          <Uuid />
+          <Revision>0</Revision>
+          <LastChangedRevision>0</LastChangedRevision>
+          <NodeType />
+          <LastAuthor />
+          <LastChangeDate />
+        </SvnInfo>
+        <TestFolderName />
+      </SourceBranchMatchRelease>
+      <CheckMatchReleasesvn>false</CheckMatchReleasesvn>
+      <MatchReleaseSVNmd5 />
+      <SourceBranchMatchMinimal>
+        <SvnInfo>
+          <SvnStatus>None</SvnStatus>
+          <CertifiedSVN>false</CertifiedSVN>
+          <CertifySVN>false</CertifySVN>
+          <TagThisSVN>false</TagThisSVN>
+          <UseHeadRevision>true</UseHeadRevision>
+          <Url>https://svn/svn/mscsvn/EmbCore_HCP_CEN_MIN/branches/07-08-00-00</Url>
+          <Uuid>e58ebb4b-6e6c-c04a-bf48-db9b504ed224</Uuid>
+          <Revision>1272</Revision>
+          <LastChangedRevision>1272</LastChangedRevision>
+          <NodeType>Verzeichnis</NodeType>
+          <LastAuthor>huesget</LastAuthor>
+          <LastChangeDate />
+        </SvnInfo>
+        <TestFolderName />
+      </SourceBranchMatchMinimal>
+      <CheckMatchMinimal>false</CheckMatchMinimal>
+      <MatchMinimalSVNmd5 />
+      <SourceBranchTests />
+      <UseOwnTestgroups>false</UseOwnTestgroups>
+      <CheckIfNotAllTestsAssigned>true</CheckIfNotAllTestsAssigned>
+      <CheckIfNotAllGroupsHasTests>true</CheckIfNotAllGroupsHasTests>
+      <CheckIfTestsAssignedMultiple>true</CheckIfTestsAssignedMultiple>
+      <Testgroups />
+    </SettingsBuildMatch31>
+  </SerializedElement>
+</Element>

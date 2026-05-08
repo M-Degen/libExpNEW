@@ -1,0 +1,63 @@
+###################################################
+#
+# prefix_assignment.txt
+# Created on: 06.11.2019
+# Author: Nico Lehmann
+#
+###################################################
+# Prefix-assignment of all possible datatypes
+################################################### Jeden erweiternden Datentyp in eine Zeile im Format: Datentyp,Prefix,Prio(1-spezifischer Blockdatentyp, 8-normaler Datentyp)
+
+#extend#
+TVerInf,Ver,2
+TVerChapCom,Ver,2
+TVerExtInf,VerExt,2
+TPinInfo,PinInfo,2
+TPinOpt,Pin,2
+TAppPinDftVal,Pin,2
+TAppPin,Pin,2
+TCoreInp,Core,2
+TCoreOut,Core,2
+TDb,Db,2
+TEcuSys,Ecu,2
+TCanSigMux,CsrMux,2
+
+################################################### Jeden zu ignorierenden Datentyp in eine Zeile
+
+#ignoreType#
+TRUE
+APDB
+BL_APDB
+IO_ErrorType
+IO_BRBL_CUSTOM_DID
+IO_Crypt_XteaEncipher32
+IO_BRBL_CAN_PARAM
+AVOID_WARRNING
+EEcuSafetySw
+PyObject
+PyMethodDef
+PyModuleDef
+FILE
+TRecDat
+
+################################################### Jede zu ignorierende Datei in eine Zeile
+
+#ignoreFile#
+ItfTypes.h
+
+################################################### Jedes zu ignorierende Verzeichnis mit Pfad oder ohne in eine Zeile
+
+#ignoreDir#
+__doxygen
+_debug
+_doc
+_draf
+_tool
+env
+src\_testmap
+src\_testsuite
+
+
+###################################################
+
+

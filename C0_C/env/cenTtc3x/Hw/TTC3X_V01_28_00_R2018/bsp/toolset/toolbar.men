@@ -1,0 +1,81 @@
+ADD
+TOOLBAR
+(
+    SEPARATOR
+    TOOLITEM "TTC-30X Family In Target &Reset" 
+    (
+        SYStem.Up        
+        system.o.dualport on
+    )
+[
+RRRRRRRRR   
+RR     RRR 
+RR       RR
+RR       RR
+RR       RR
+RR     RRR
+RRRRRRRR
+RR RR
+RR  RR     
+RR   RR    
+RR    RR   
+RR     RR  
+RR      RR 
+RR       RR
+]
+)
+
+ADD
+TOOLBAR
+(
+    SEPARATOR
+    TOOLITEM "TTC-30X Family In Target &Reset and Run" 
+    (
+        SYStem.Up
+        system.o.dualport on    
+        go
+    )
+[
+RRRRRRRRR    
+RR     RRR 
+RR       RR
+RR       RR
+RR       RR
+RR     RRR   RRR
+RRRRRRRR     R  R
+RR RR        RRR
+RR  RR       R R    
+RR   RR      R  R   
+RR    RR   
+RR     RR  
+RR      RR 
+RR       RR
+]
+)
+
+ADD
+TOOLBAR
+(
+    SEPARATOR
+    TOOLITEM "Delete All Breakpoints" 
+    (
+    	BREAK.DELETE /ALL
+    )
+[
+RRRR   RRRR
+R   R  R   R
+R   R  R   R
+RRRR   R   R
+R   R  R   R
+R   R  R   R
+RRRR   RRRR
+
+ RRR  R    R
+R   R R    R
+R   R R    R
+RRRRR R    R
+R   R R    R
+R   R R    R
+R   R RRRR RRRR
+]
+)

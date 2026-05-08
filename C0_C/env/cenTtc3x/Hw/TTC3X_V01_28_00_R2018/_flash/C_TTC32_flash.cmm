@@ -1,0 +1,19 @@
+;change to current directory
+&workingdir=OS.PPD()
+cd "&workingdir"
+
+SYStem.Down
+SYStem.CPU XC2267-96F
+sys.u
+
+; Erase Flash. Note: Without bootloader
+flash.erase 0xC10000--0xCBFFFF
+
+; Flash program
+FLASH.Auto 0xC10000--0xCBFFFF
+Data.LOAD.auto .\TTC32\@.hex /WORD
+Data.LOAD.auto .\TTC32\@.elf /nocode
+FLASH.Auto OFF
+
+; Add reset toolbar
+menu.REPROGRAM ..\..\env\cenTtc3x\Hw\#\bsp\toolset\toolbar.men"
